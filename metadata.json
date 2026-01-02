@@ -1,0 +1,8 @@
+{
+  "name": "MuseCam AI",
+  "description": "A classy video recorder that acts as your personal interviewer using Gemini Live.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
